@@ -1,0 +1,34 @@
+body {
+  background-color: #85889C;
+  font-family:  Arial;
+}
+
+
+.primer{
+  
+  background-color: pink;
+}
+
+li{
+background-color: #565660;
+color: rgb(226,140,190);
+
+}
+.header{display: block;
+  margin: auto;
+  width: 35%;
+  height: 10vh;
+  margin-top: 5px;
+  background-color: #535970;
+  border-radius: 50px;
+}
+
+
+.primer-parrafo{
+display: block;
+  margin: auto;
+  width: 90%;
+  height: 10vh;
+  margin-top: 5px;
+  background-color: #535970;
+  border-radius: 50px;
